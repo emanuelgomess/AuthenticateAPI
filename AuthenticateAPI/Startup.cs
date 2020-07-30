@@ -63,18 +63,18 @@ namespace AuthenticateAPI
                 config.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "API Rest de autenticaÁ„o",
-                    Description = "Simples descriÁ„o",
+                    Title = "API Rest de autentica√ß√£o",
+                    Description = "Simples descri√ß√£o",
                     TermsOfService = new Uri("https://example.com/terms"),
                     Contact = new OpenApiContact
                     {
                         Name = "Emanuel Lucas",
                         Email = string.Empty,
-                        Url = new Uri("https://twitter.com/spboyer"),
+                        Url = new Uri("https://twitter.com/"),
                     },
                     License = new OpenApiLicense
                     {
-                        Name = "Termos de licensa",
+                        Name = "Termos de licen√ßa",
                         Url = new Uri("https://example.com/license"),
                     }
                 });

@@ -17,8 +17,6 @@ namespace AuthenticateAPI.Controllers
         [Route("Add")]
         public async Task<ActionResult<ResponseCreateCustomer>> Add(CreateCustomerCommand command)
         {
-            //return await Mediator.Send(command);
-
             var response = await Mediator.Send(command).ConfigureAwait(false);
 
             if (response.Errors.Any())

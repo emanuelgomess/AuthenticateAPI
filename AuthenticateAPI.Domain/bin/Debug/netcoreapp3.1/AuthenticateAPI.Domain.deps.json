@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AuthenticateAPI.Domain/1.0.0": {
+        "runtime": {
+          "AuthenticateAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthenticateAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

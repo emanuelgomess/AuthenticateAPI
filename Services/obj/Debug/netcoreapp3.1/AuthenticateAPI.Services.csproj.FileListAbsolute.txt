@@ -1,0 +1,14 @@
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Services.deps.json
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Services.dll
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.csprojAssemblyReference.cache
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.AssemblyInfoInputs.cache
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.AssemblyInfo.cs
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Services.pdb
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Application.dll
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Domain.dll
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Application.pdb
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\bin\Debug\netcoreapp3.1\AuthenticateAPI.Domain.pdb
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.csproj.CopyComplete
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.dll
+C:\Users\eluca\source\repos\AuthenticateAPI\Services\obj\Debug\netcoreapp3.1\AuthenticateAPI.Services.pdb

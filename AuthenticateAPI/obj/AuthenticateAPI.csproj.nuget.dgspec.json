@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\AuthenticateAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\AuthenticateAPI.Application.csproj",
+        "projectName": "AuthenticateAPI.Application",
+        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\AuthenticateAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
+                "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
+        "projectName": "AuthenticateAPI.Domain",
+        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
+        "projectName": "AuthenticateAPI.Infra",
+        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
+        "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
+                "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj",
+        "projectName": "AuthenticateAPI",
+        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj",
+        "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\AuthenticateAPI.Application.csproj": {
+                "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Application\\AuthenticateAPI.Application.csproj"
+              },
+              "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {
+                "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

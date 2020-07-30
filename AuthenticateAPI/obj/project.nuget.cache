@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "221BjXKGS1JPFv/30zI/z57D4BOFL7HjN87QnmJNanTUn6dHJpRQH/0f8XfTpWQ2B5Vj15SHbsq78GoIkTKuWA==",
+  "dgSpecHash": "xoRZYi5KDwfu16y8nntvm/CPmljYN08hxR4kjZ7BpksQdaso8vpLycX2tznlXfZQ2RDRAzaHZBLausDqojrHgQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj",
+  "projectFilePath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI\\AuthenticateAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eluca\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\eluca\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

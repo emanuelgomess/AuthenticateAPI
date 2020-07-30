@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {}
+    "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {}
   },
   "projects": {
-    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
+    "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
         "projectName": "AuthenticateAPI.Domain",
-        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {
+    "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
         "projectName": "AuthenticateAPI.Infra",
-        "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
+        "projectPath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
         "packagesPath": "C:\\Users\\eluca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\obj\\",
+        "outputPath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
-                "projectPath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj"
+              "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj"
               }
             }
           }

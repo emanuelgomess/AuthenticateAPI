@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "caL5HkxZdiy02OfCdVekBj6LXHKgvGYpRh8djI3ahsKYt3lBn7MXXYaqWpnz3mkr/wugcKLr8F6ziGzHjGTxcg==",
+  "dgSpecHash": "rzKWc9RZeZyBkdauwh0mPF3jmwGj5+ppPVwrODFktzsXVWRKh8L4BeUxSw2qrpvRqI6ysCT/+YtSAsaZn2S86Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
+  "projectFilePath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Infra\\AuthenticateAPI.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eluca\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\eluca\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\microsoft.extensions.configuration.3.1.6.nupkg.sha512",

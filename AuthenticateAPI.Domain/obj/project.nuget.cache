@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8h8JFPEg4grWG6+CTS27+bKm21BMQj33RMyj8a7GmSeg6ToE4tsIQpQIgQesJh1/zlyKPqQHMbxIq3Tdkf74Mw==",
+  "dgSpecHash": "+9P4PvRdhsO7wWtt5OAJAeWa+j7Uqvl5HqsqvTHJdZ/xE/fswv0V9QH59vIn8VOHGkS4PbuUDaTt8Ry6sbcEWw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
+  "projectFilePath": "C:\\Users\\eluca\\source\\repos\\AuthenticateAPI\\AuthenticateAPI.Domain\\AuthenticateAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
